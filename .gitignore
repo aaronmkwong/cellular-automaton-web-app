@@ -1,0 +1,13 @@
+# specifies files/folders Git should not track
+
+# virtual environment
+.venv
+
+# python generated cache
+__pycache__/
+
+# catches both .pyc and legacy .pyo compiled bytecode files
+*.py[oc]
+
+# local configuration/secrets
+.env

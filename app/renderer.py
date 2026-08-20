@@ -1,0 +1,1 @@
+# converts simulation grids into visual representations

@@ -1,0 +1,1 @@
+# cellular automaton simulation engine and generation logic

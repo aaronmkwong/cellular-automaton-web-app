@@ -1,0 +1,1 @@
+# converts image frames into an animated GIF
