@@ -1,1 +1,22 @@
 # dependencies required to install and run the application
+
+# Web API framework
+fastapi 
+
+# ASGI web server used to run FastAPI
+uvicorn 
+
+# cellular automaton simulation engine
+numpy 
+
+# image and GIF generation
+pillow 
+
+# HTML templates if using server-rendered pages
+jinja2 
+
+# handles form submissions from HTML forms
+python-multipart 
+
+# unit testing
+pytest 
