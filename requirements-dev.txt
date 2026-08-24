@@ -1,0 +1,10 @@
+# dependencies required (and optional) for development
+
+# unit testing (required)
+pytest
+
+# used by FastAPI for async integration tests using TestClient (required)
+httpx
+
+# fast linter and code formatter for clean NumPy and FastAPI code (optional)
+ruff

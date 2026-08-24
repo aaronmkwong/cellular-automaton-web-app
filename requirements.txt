@@ -1,4 +1,4 @@
-# dependencies required to install and run the application
+# dependencies to install and run the application in production
 
 # Web API framework
 fastapi 
@@ -16,7 +16,4 @@ pillow
 jinja2 
 
 # handles form submissions from HTML forms
-python-multipart 
-
-# unit testing
-pytest 
+python-multipart
