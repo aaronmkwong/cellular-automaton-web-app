@@ -1,5 +1,7 @@
 # cellular-automaton-web-app
 
+![WIP](https://shields.io)
+
 **Cellular Automaton** is a Python/FastAPI web application for configuring and running Conway's Game of Life simulations. It validates user parameters, runs the simulation, generates an animated GIF, and provides the result for download without persistently storing simulation data.
 
 ## Previous Version
